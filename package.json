@@ -6,8 +6,8 @@
   "author": "ngobar",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon app.js",
-    "start":"node app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "dependencies": {
     "@hapi/joi": "^17.1.1",
